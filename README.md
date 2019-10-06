@@ -1,4 +1,4 @@
-## kurdish_bible
+## Kurdish Bible
 Different versions of Kurdish Bible (parsed from [kitebipiroz](kitebipiroz.com))
 
 * Soranî / Sorani

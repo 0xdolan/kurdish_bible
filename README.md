@@ -1,2 +1,6 @@
-# kurdish_bible
-Kurdish [Soranî / Sorani - Kurmancî/ Kurmanji - Badînî/Badini] Bible (parsed from kitebipiroz.com)
+## kurdish_bible
+Different versions of Kurdish Bible (parsed from [kitebipiroz](kitebipiroz.com))
+
+* Soranî / Sorani
+* Kurmancî / Kurmanji
+* Badînî / Badini

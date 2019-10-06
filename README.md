@@ -2,5 +2,5 @@
 Different versions of Kurdish Bible (parsed from [kitebipiroz](kitebipiroz.com))
 
 * Soranî / Sorani
-* Kurmancî / Kurmanji
-* Badînî / Badini
+* Kurmancî / Kurmanji / Kirmancî / Kirmanci
+* Badînî / Badini / Behdini

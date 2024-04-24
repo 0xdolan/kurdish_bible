@@ -17,6 +17,7 @@ def get_bible_data(language):
     MAIN_URL = (
         f"https://www.bible.com/_next/data/nogh7EKJmNa2jhmizj0rV/en/audio-bible/503/"
     )
+
     BOOKS = [
         "GEN",
         "EXO",
@@ -101,13 +102,14 @@ def get_bible_data(language):
         # Books
         for chapter_index in range(100):
             chapter_url = f"{MAIN_URL}{book}.{chapter_index}.{language}.json?versionId=503&usfm={book}.{chapter_index}.{language}"
-            main_response = requests.get(chapter_url)
-            if main_response.status_code == 200:
-                main_data = main_response.json()
-                with open(
-                    book_dir / f"{chapter_index}.json", "w", encoding="utf-8"
-                ) as json_file:
-                    json.dump(main_data, json_file, ensure_ascii=False)
+            print(chapter_url)
+            # main_response = requests.get(chapter_url)
+            # if main_response.status_code == 200:
+            #     main_data = main_response.json()
+            #     with open(
+            #         book_dir / f"{chapter_index}.json", "w", encoding="utf-8"
+            #     ) as json_file:
+            #         json.dump(main_data, json_file, ensure_ascii=False)
 
 
 languages = {

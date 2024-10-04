@@ -1,0 +1,658 @@
+{
+    "version_name": "Peymana Nû (Încîl)",
+    "book_id": 49,
+    "book_title": "Ephesians",
+    "page_title": "Efesiyan 6",
+    "chapters": [
+        {
+            "chapter": 1,
+            "verses": [
+                {
+                    "verse": "1",
+                    "text": "Ji Pawlosê bi eʼmirê Xwedê şandîyê Mesîh Îsa, wan merivêd Xwedêrʼa, yêd ku Efesêda dimînin û yektîya Mesîh Îsada amin in:"
+                },
+                {
+                    "verse": "2",
+                    "text": "De bira kʼerem û eʼdilayîya Xwedêyê Bavê me û Xudan Îsa Mesîh li we be."
+                },
+                {
+                    "verse": "3",
+                    "text": "Şikir ji Xwedêrʼa, Bavê Xudanê me Îsa Mesîh, ku pê hʼemû dua-dirozgêd rʼuhʼanîye li dîyarê eʼzmana yektîya Mesîhda dua li me kirin."
+                },
+                {
+                    "verse": "4",
+                    "text": "Berî eʼfirandina dinyayê Xwedê yektîya Wîda em bijartin, wekî em pîroz û bêqusûr bin, li ber Wî hʼizkirinêda bijîn."
+                },
+                {
+                    "verse": "5",
+                    "text": "Ewî em pêşda kʼifş kiribûn, çawa li qirara Wî xweş hat, ku me bi destê Îsa Mesîh bike lawêd Xwe."
+                },
+                {
+                    "verse": "6",
+                    "text": "De werin em pesinê Wî bidin, bona wê kʼerema Wîye xweyîrʼûmet, pê kʼîjanê yektîya Hʼizkirîyê Xweda qencî li me kir."
+                },
+                {
+                    "verse": "7",
+                    "text": "Yektîya Wîda em aza bûne bi xûna Wî, awa gotî afûbûna guna standîye. Eva yeka ji dewlemendtîya kʼerema Wî ye,"
+                },
+                {
+                    "verse": "8",
+                    "text": "ya ku Wî bi merʼdanî ser meda barand, pê hʼemû serwaxtî û feʼmdarîyê."
+                },
+                {
+                    "verse": "9",
+                    "text": "Ewî surʼa xwestina Xwe meva eʼyan kir, çawa li Wî xweş hat, ya ku hê pêşda qirar kiribû, wekî yektîya Mesîhda bîne sêrî,"
+                },
+                {
+                    "verse": "10",
+                    "text": "ku gava wext pêrʼa bigihîje, ew tʼivdîr mîyaser be, hʼemû tişt bin serwêrtîya Mesîhda girêdayî bin, hin her tiştêd li eʼrdê, hin jî li eʼzmana."
+                },
+                {
+                    "verse": "11",
+                    "text": "Çawa Xwedê qirara Xweda pêşda kʼifş kiribû, ku her tişt li gora xwestin û eʼmirê Wî be, em cihû yektîya Mesîhda pʼara Xwedê kʼetine,"
+                },
+                {
+                    "verse": "12",
+                    "text": "wekî em pesinê rʼûmeta Wî bidin ku me pêşda gumana xwe danîye ser Mesîh."
+                },
+                {
+                    "verse": "13",
+                    "text": "Yektîya Wîda hûn necihû jî bûne pʼara Xwedê, gava we xebera rʼastîyê, awa gotî Mizgînîya xilazbûna xwe bihîst. We bawerîya xwe Wî anî û bi Rʼuhʼê Pîrozî sozdayî hatine morkirinê."
+                },
+                {
+                    "verse": "14",
+                    "text": "Rʼuhʼê Pîroz çawa bihê hatîye dayînê hʼeta em sozê Xwedê war bin, çaxê Xwedê cimeʼta Xwe lap aza ke, bona pesindayîna rʼûmeta Xwe."
+                },
+                {
+                    "verse": "15",
+                    "text": "Bona vê yekê min ji hingêva ku bona bawerîya weye ser Xudan Îsa û ew hʼizkirina weye hindava tʼemamîya cimeʼta Xwedêda bihîstîye,"
+                },
+                {
+                    "verse": "16",
+                    "text": "bona we min dest ji şikirdayînê nekʼişandîye. Ez tʼimê nava duayêd xweda we bîr tînim,"
+                },
+                {
+                    "verse": "17",
+                    "text": "wekî Xwedêyê Xudanê me Îsa Mesîh, Bavê xweyîrʼûmet, Rʼuhʼê serwaxtîyê û eʼyantîyê bide we, ku hûn Wî tʼam nas bikin."
+                },
+                {
+                    "verse": "18",
+                    "text": "Bira çʼeʼvêd rʼuhʼê we vebin, wekî hûn feʼm bikin, çi ye ew gumana ku Wî gazî we kirîye û çi ye ew dewlemendtîya rʼûmeta Wî, ya ku cimeʼta Wî wê war be"
+                },
+                {
+                    "verse": "19",
+                    "text": "û çi ye ew qewata Wîye mezine bêhimber, ya ku nav me bawermendada dixebite. Ev e ew qewata Wîye zor,"
+                },
+                {
+                    "verse": "20",
+                    "text": "ya ku Xwedê ser Mesîh da xebatê, gava Ew ji nava mirîya rʼakir û li dîyarê eʼzmana kʼêleka Xweye rʼastê da rʼûniştandinê,"
+                },
+                {
+                    "verse": "21",
+                    "text": "Ew danî ser hʼemû serwêrtîya, hʼukumetîya, qewata, xudantîya û usa jî ser hʼemû navêd ku têne hildanê, ne ku tʼenê li vê dinê, lê wê dinê jî."
+                },
+                {
+                    "verse": "22",
+                    "text": "Û Xwedê her tişt kire bin pʼîyêd Wî û Ew bona civînê kʼifş kir çawa serwêrê her tiştî."
+                },
+                {
+                    "verse": "23",
+                    "text": "Civîn jî bedena Mesîh e, tʼemambûna Wî ye, ku Xwexa her tişt e, her tiştî tʼemam dike."
+                }
+            ]
+        },
+        {
+            "chapter": 2,
+            "verses": [
+                {
+                    "verse": "1",
+                    "text": "Hûn ji dest neheqî û gunêd xwe mirî bûn,"
+                },
+                {
+                    "verse": "2",
+                    "text": "gava hûn pey eʼdetêd vê dinê diçûn, li gora xwestina mîrê serwêrtîya vê hewê, wî rʼuhʼê ku niha jî nava wan merivada ya xwe dike, yêd ku ne gurʼa Xwedêda ne."
+                },
+                {
+                    "verse": "3",
+                    "text": "Em hʼemû jî wextekê pey wan tişta diçûn, bi dilhavijîyêd binyatʼa merivayê dijît û dil û fikirêd merʼa çi derbaz dibûn me ew dikirin û binyatʼa xweda jî hêjayî xezeba Xwedê bûn, çawa yêd mayîn."
+                },
+                {
+                    "verse": "4",
+                    "text": "Lê Xwedêyê ku xweyê rʼeʼma dewlemend e, bi hʼizkirina Xweye mezin, bi kʼîjanê em hʼizkirin,"
+                },
+                {
+                    "verse": "5",
+                    "text": "gava em hê ji dest neheqîyêd xwe mirî bûn, Ewî tʼevî Mesîh em sax kirin. Bi kʼeremê hûn xilazbûyî ne!"
+                },
+                {
+                    "verse": "6",
+                    "text": "Yektîya Wîda em ji mirinê rʼakirin û tʼevî Wî em li dîyarê eʼzmana dane rʼûniştandinê, bi saya Mesîh Îsa."
+                },
+                {
+                    "verse": "7",
+                    "text": "Wî ev yek kir, wekî li nava wan zemanêd ku wê bên, dewlemendtîya kʼerema Xweye bêhimber, hindava meda bi saya Mesîh Îsa, bi şîrinayî bide kʼifşê."
+                },
+                {
+                    "verse": "8",
+                    "text": "Çimkî bi kʼeremê hûn xilazbûyî ne, pê bawerîyê û ev yek ne ji we ye, lê dayîna Xwedê ye."
+                },
+                {
+                    "verse": "9",
+                    "text": "Ev yek ne ji kirina ye, wekî yek pʼeyê xwe bide."
+                },
+                {
+                    "verse": "10",
+                    "text": "Belê em çêkirîyêd Wî ne, yektîya Mesîh Îsada xuliqî, bona kirinêd qenc, ya ku Xwedê pêşda hazir kir, ku em wanda bimînin."
+                },
+                {
+                    "verse": "11",
+                    "text": "Hûn ku eʼsilê xweda necihû ne û ji alîyê cihûyada «bê sinet» dihatine hʼesabê, yêd ku xwexa xwe «sinetkirî» hʼesab dikirin, bi sinetîya qalibe bi desta kirî, awa bîr bînin ku hûn hingê çi bûn."
+                },
+                {
+                    "verse": "12",
+                    "text": "Hingê hûn bê Mesîh û xerîb bûn hindava bajarvantîya Îsraêlda û ji peymana û sozêd wan dûr bûn û vê dinêda jî bê guman û bê Xwedê bûn."
+                },
+                {
+                    "verse": "13",
+                    "text": "Lê hûn ku wextekê dûrî van yeka bûn, niha tʼevî Mesîh Îsa bûne, bi xûna Mesîh hûn nêzîk bûne."
+                },
+                {
+                    "verse": "14",
+                    "text": "Çimkî Ew e eʼdilayîya me, ku her du, cihû û necihû kirine yek. Ewî dîwarê navbirʼîyê, awa gotî dijminatî bi bedena Xwe xirab kir"
+                },
+                {
+                    "verse": "15",
+                    "text": "û tʼemî û eʼmirêd Qanûna Mûsada betal kirin, wekî yektîya Xweda, ji her duya cihû û necihû merivekî nû bixuliqîne û bi vî awayî bike eʼdilayî."
+                },
+                {
+                    "verse": "16",
+                    "text": "Û Mesîh bedenekêda her du tʼevî Xwedê bi xaçê Xwe li hev anîn, çimkî bi wê kirinê dijminatî kʼokêva rʼakir."
+                },
+                {
+                    "verse": "17",
+                    "text": "Û hat Mizgînîya eʼdilayîyê da we necihûyêd dûrî Xwedê û cihûyêd nêzîkî Wî."
+                },
+                {
+                    "verse": "18",
+                    "text": "Çimkî bi saya Wî, îzina me her duya jî heye, bi Rʼuhʼekî nêzîkî Bavê bin."
+                },
+                {
+                    "verse": "19",
+                    "text": "Awa hûn îdî ne xelq û xerîb in, lê bajarvantîya we tʼevî cimeʼta Xwedê ye û neferêd mala Xwedê ne."
+                },
+                {
+                    "verse": "20",
+                    "text": "Hûn ser wî rʼikʼinê şandîya û pʼêxembera avakirî ne, kevirê eʼnîşka kʼîjanî Mesîh Îsa Xwexa ye."
+                },
+                {
+                    "verse": "21",
+                    "text": "Bi Wî tʼemamîya avayî pêva cî bi cî bona Xudan pʼaristgeheke pîroz bilind dibe."
+                },
+                {
+                    "verse": "22",
+                    "text": "Bi Wî hûn jî bi hevrʼa têne avakirinê, çawa xana Xwedê bi Rʼuhʼê Pîroz."
+                }
+            ]
+        },
+        {
+            "chapter": 3,
+            "verses": [
+                {
+                    "verse": "1",
+                    "text": "Bona vê yekê ez Pawlos bona Mesîh Îsa girtî me, bona we necihûya…"
+                },
+                {
+                    "verse": "2",
+                    "text": "Gerekê we bihîstibe, ku ev wekʼîltîya kʼerema Xwedê bona we minrʼa hatîye dayînê."
+                },
+                {
+                    "verse": "3",
+                    "text": "Ev surʼa bi dayînekê li ber min hate vekirinê. Min li jorê kin werʼa nivîsî"
+                },
+                {
+                    "verse": "4",
+                    "text": "û gava hûn bixûnin, hûnê bikaribin bizanibin ku ez çawa surʼa Mesîh feʼm dikim."
+                },
+                {
+                    "verse": "5",
+                    "text": "Eva surʼa dewrêd bihurîda li ber bendêd dinê venebûye, çawa niha bi Rʼuhʼê Pîroz li ber şandî û pʼêxemberêd Wîye pîroz vebûye."
+                },
+                {
+                    "verse": "6",
+                    "text": "Eva surʼa vebû, wekî necihû pê Mizgînîyê tʼevî Îsraêlê war bin, bibine bedenek û xweyîpʼarêd sozê Wî bin, bi saya Mesîh Îsa."
+                },
+                {
+                    "verse": "7",
+                    "text": "Ez bûme berdestîyê vê Mizgînîyê, anegorî dayîna ji kʼerema Xwedê, ya ku bi kirina qewata Wî minrʼa hatîye dayînê."
+                },
+                {
+                    "verse": "8",
+                    "text": "Belê ez ku ji nava cimeʼta Xwedêda ji yê herî biçʼûk kêmtir im, lê ev kʼerem minrʼa hatîye dayînê, ku nava necihûyada dewlemendtîya Mesîhe ne li ber hʼişa dannasîn kim"
+                },
+                {
+                    "verse": "9",
+                    "text": "û li ber hʼemûya vekim, ku çawa tʼivdîra surʼa Xwedê tê xebatê, ya ku hê dewrêd berêda cem Xwedêyê ku her tişt eʼfirandîye, veşartî mabû."
+                },
+                {
+                    "verse": "10",
+                    "text": "Meremê Xwedê ev bû, wekî niha serwaxtîya Xweye cûrʼe-cûrʼe, bi destê civînê li serwêrtî û hʼukumetêd dîyarêd eʼzmanava eʼyan bike,"
+                },
+                {
+                    "verse": "11",
+                    "text": "anegorî qirara Wîye hê dewrêd berêda, ya ku Wî bi destê Mesîh Îsa, Xudanê me kir."
+                },
+                {
+                    "verse": "12",
+                    "text": "Yektîya Mesîhda û pê wê bawerîya meye ser Wî em dikarin bi mêrkʼîmî û rʼûvekirî nêzîkî Xwedê bin."
+                },
+                {
+                    "verse": "13",
+                    "text": "Awa ez ji we hîvî dikim, ku hûn ber xwe nekʼevin, bona wan cefayêd ku ez bona we dikʼişînim. Evana bona rʼûmeta we ne."
+                },
+                {
+                    "verse": "14",
+                    "text": "Bona vê yekê ez li ber Bav çok didim,"
+                },
+                {
+                    "verse": "15",
+                    "text": "ji kʼîjanî her qebîleke eʼrd û eʼzmana navê xwe distîne."
+                },
+                {
+                    "verse": "16",
+                    "text": "De bira Ew weke dewlemendtîya rʼûmeta Xwe qewatê bi saya Rʼuhʼê Xwe bide we, ku hûn kʼûrayîya dilê xweda bişidin,"
+                },
+                {
+                    "verse": "17",
+                    "text": "bi bawerîyê Mesîh dilê weda bijî û hûn hʼizkirinêda rʼaw û rʼikʼinê xwe bavêjin,"
+                },
+                {
+                    "verse": "18",
+                    "text": "ku tʼevî tʼemamîya cimeʼta Xwedê bikaribin feʼm bikin, ku berayî, dirêjayî, bilindayî û kʼûrayîya hʼizkirina Mesîh çi ye."
+                },
+                {
+                    "verse": "19",
+                    "text": "Belê bira hûn hʼizkirina Mesîh nas kin, ya ku ji her hʼiş-aqilî zêdetir e, wekî hûn tʼemamîya Xwedêva tʼijî bin."
+                },
+                {
+                    "verse": "20",
+                    "text": "Awa şikir ji Wîrʼa be, Yê ku dikare her tiştî hê zêde ke, ne çawa em dixwazin yan difikirin, bi wê qewata ku nava meda dixebite,"
+                },
+                {
+                    "verse": "21",
+                    "text": "şikir ji Wîrʼa nava civînêda, bi saya Mesîh Îsa, hʼemû zemanîda, hʼeta-hʼetayê! Amîn."
+                }
+            ]
+        },
+        {
+            "chapter": 4,
+            "verses": [
+                {
+                    "verse": "1",
+                    "text": "Awa ezî girtîyê bona navê Xudan, hîvî ji we dikim, ku hûn usa bijîn, çawa layîqî wê gazîyê ye, kʼîjanêrʼa hûn hatine gazîkirinê."
+                },
+                {
+                    "verse": "2",
+                    "text": "Hûn bi tʼemamîya milûktîyê û şkestî, bi sebirê hʼizkirinêda li ber hev daxin."
+                },
+                {
+                    "verse": "3",
+                    "text": "Biceʼdînin, ku yektîya Rʼuhʼ pê hevgirêdana eʼdilayîyê xwey kin."
+                },
+                {
+                    "verse": "4",
+                    "text": "Çawa beden yek e û Rʼuhʼ yek e, hûn jî gumanekêrʼa hatine gazîkirinê."
+                },
+                {
+                    "verse": "5",
+                    "text": "Xudan yek e, bawerî yek e, nixumandin yek e,"
+                },
+                {
+                    "verse": "6",
+                    "text": "Xwedê yek e, Ew Bavê hʼemûya ye, ku ser hʼemûyarʼa ye, bi hʼemûya ya Xwe dike û nava hʼemûyada ye."
+                },
+                {
+                    "verse": "7",
+                    "text": "Belê ji me her kesîrʼa jî kʼerem hatîye dayînê, çawa Mesîh pʼarevekir."
+                },
+                {
+                    "verse": "8",
+                    "text": "Bona vê yekê tê gotinê: «Gava hilkʼişîya çû jorê, hêsîr tʼevî Xwe birin û pʼêşkʼêş dane meriva»."
+                },
+                {
+                    "verse": "9",
+                    "text": "Ev «hilkʼişîya» çi tê hʼesabê? Dixwaze bêje, ku Ew pêşda berjêrî wê dinya jêrin bû."
+                },
+                {
+                    "verse": "10",
+                    "text": "Ewê ku berjêr bû, hema Ew e, Yê ku Xwe da fêza hʼemû eʼzmana, wekî her tiştî hʼizûrîya Xweva tʼijî ke."
+                },
+                {
+                    "verse": "11",
+                    "text": "Eva Ew bû, Yê ku pʼêşkʼêş dane meriva, ku hinek bibine şandî, hinek pʼêxember, hinek mizgîndar, hinek jî seʼvî û dersdar."
+                },
+                {
+                    "verse": "12",
+                    "text": "Ewî ev yek kir, wekî cimeʼta Xwedê şixulêd xizmetkʼarîyêrʼa hazir be, bona avabûna bedena Mesîh,"
+                },
+                {
+                    "verse": "13",
+                    "text": "hʼeta ku em hʼemû jî bigihîjine wê yekê, ku bawerîyê û Kurʼê Xwedê naskirinêda tʼifaq bin, bibine merivêd gihîştî, tʼam weke bejin-bala Mesîh."
+                },
+                {
+                    "verse": "14",
+                    "text": "Wekî usa ye ji vir şûnda em nebine mîna zarʼoka ku ji pêla virda-wêda dikʼevin û bi derewêd meriva ber bayê her hînkirinekê dikʼevin, yêd ku bi fêlbazîya dixapînin û dixalifînin."
+                },
+                {
+                    "verse": "15",
+                    "text": "Lê rʼastîyê pê hʼizkirinê bêjin, her alîyada bigihîjine sêrî, ku Mesîh e."
+                },
+                {
+                    "verse": "16",
+                    "text": "Ji Wî tʼemamîya bedenê hevva ne û hʼemû jî bi alîkʼarîya her sêvikekê hevva girêdayî ye. Û gava her pʼareke bedenê şixulê xwe dike, hʼizkirinêda xwexa digihîje û mezin dibe."
+                },
+                {
+                    "verse": "17",
+                    "text": "Awa ez vê yekê mêrkʼîmî dibêjim û bi navê Xudan tʼemî li we dikim, ku hûn îdî tʼu cara wê rʼêda neçin, çawa pʼûtpʼarist bi fikirêd xweye pʼûçʼ diçin."
+                },
+                {
+                    "verse": "18",
+                    "text": "Ewana feʼmêd xweda şûna rʼeşva çûn û ji jîyîna Xwedê dûr kʼetine, ji dest nezanîya nava xwe û serhʼişkîya xwe."
+                },
+                {
+                    "verse": "19",
+                    "text": "Şerma rʼûyê xwe unda kirine û usa xwe dane doxînê, hʼeta ku her cûrʼe kirinêd hʼeram dikin û tʼêr nabin."
+                },
+                {
+                    "verse": "20",
+                    "text": "Lê we Mesîh usa nas nekir!"
+                },
+                {
+                    "verse": "21",
+                    "text": "Belê we bona Wî bihîstîye jî û çawa yêd pʼara Îsa, hûn wê rʼastîya nava Wîda hîn bûne."
+                },
+                {
+                    "verse": "22",
+                    "text": "De hûn xeysetê xweyî berê ji xwe dûr xin, wî merivê kevinî ku bi havijîyêd hʼilekʼarva dêrisbûyî ye"
+                },
+                {
+                    "verse": "23",
+                    "text": "û bi rʼuhʼ û fikirêd xweda nûyejîyîn bin,"
+                },
+                {
+                    "verse": "24",
+                    "text": "merivê nû li ser xwe wergirin, ku kirasê Xwedêda bi heqî û hʼelalîya bê qelpî xuliqî ye."
+                },
+                {
+                    "verse": "25",
+                    "text": "Awa derewa ji xwe dûr xin, ji we her yek hevalê xwerʼa rʼast xeber de, çimkî em bi hevrʼa endemêd Bedena Mesîh ne."
+                },
+                {
+                    "verse": "26",
+                    "text": "Heger hûn hêrs kʼevin, guna nekin, bira rʼo ser hêrsa werʼa neçe ava"
+                },
+                {
+                    "verse": "27",
+                    "text": "û cî nedine mîrêcin."
+                },
+                {
+                    "verse": "28",
+                    "text": "Ewê ku dizîyê dike, bira îdî nedize, lê bi xûdana xweye hʼelal bi destêd xwe bixebite, ku bikaribe dest bavêje kʼetîya jî."
+                },
+                {
+                    "verse": "29",
+                    "text": "Bira ji devê we qet xebereke xirab derneyê, pêştirî tiştêd ku kêrî guhdara tên û kʼarê didine wan."
+                },
+                {
+                    "verse": "30",
+                    "text": "Û Rʼuhʼê Xwedêyî Pîroz neêşînin, bi Kʼîjanî hûn bona Rʼoja Azayîyê hatine morkirinê."
+                },
+                {
+                    "verse": "31",
+                    "text": "De bira her teʼlayî, hêrs, berzeqî, qarʼe-qarʼ û gotinêd nerʼêda ji we dûr bin tʼevî her cûrʼe kʼîn-boxîyêva."
+                },
+                {
+                    "verse": "32",
+                    "text": "Û hevrʼa şîrin û dilşewat bin, li hev bibaxşînin, çawa Xwedê bi Mesîh baxşande we."
+                }
+            ]
+        },
+        {
+            "chapter": 5,
+            "verses": [
+                {
+                    "verse": "1",
+                    "text": "Awa çʼeʼv bidine Xwedê, çawa zarʼêd hʼizkirî"
+                },
+                {
+                    "verse": "2",
+                    "text": "û xwe li hʼizkirinê bigirin, çawa Mesîh jî em hʼiz kirin û jîyîna Xwe bona me da, Xwedêrʼa bû hʼedî û qurbana bînxweş."
+                },
+                {
+                    "verse": "3",
+                    "text": "Lê hʼeta navê qavîyê û her hʼeramîyê, yan timayê jî gerekê nava weda neyê hildanê, çawa li cimeʼta Xwedê nakʼeve."
+                },
+                {
+                    "verse": "4",
+                    "text": "Usa jî gotinêd bêmeʼrîfetî, yan bêfeʼmî, yan hʼenekêd qelpê xirab, ku li we nakʼevin, bira ji devê we derneyên, lê dewsê şikirdarî."
+                },
+                {
+                    "verse": "5",
+                    "text": "Hûn vê yekê zanibin ku tʼu qav, yan hʼeram, yan timakʼar (ku pʼûtpʼarist e) Pʼadşatîya Mesîh û Xwedêda war nabe."
+                },
+                {
+                    "verse": "6",
+                    "text": "Bira tʼu kes bi xeberêd pʼûçʼ we nexapîne, çimkî bona van tişta hêrsa Xwedê li wan merivêd neguhdar rʼadibe."
+                },
+                {
+                    "verse": "7",
+                    "text": "Awa hûn tʼevî yêd usa nebin!"
+                },
+                {
+                    "verse": "8",
+                    "text": "Hûn jî wextekê teʼrî bûn, lê niha hûn ku pʼara Xudan in, rʼonayî ne. Awa mîna zarʼêd rʼonayê bijîn,"
+                },
+                {
+                    "verse": "9",
+                    "text": "(çimkî berê rʼonayîyê ji her qencîyê, heqîyê û rʼastîyê dibe)"
+                },
+                {
+                    "verse": "10",
+                    "text": "û bizanibin ku çi li Xudan xweş tê."
+                },
+                {
+                    "verse": "11",
+                    "text": "Tʼevî wan kirêd bêbere teʼrîyê nebin, lê wan ser avê xin,"
+                },
+                {
+                    "verse": "12",
+                    "text": "çimkî bona wan tiştêd ku ewana bi dizîva dikin şerm e jî ku bê xeberdanê."
+                },
+                {
+                    "verse": "13",
+                    "text": "Lê gava her tişt tê ber rʼonayê, aşkere dibe,"
+                },
+                {
+                    "verse": "14",
+                    "text": "çimkî her tiştê ku aşkere dibe, dibe rʼonayî. Bona vê yekê hatîye gotinê: «Xewixîyo, hʼişyar be! Ji nav mirîya rʼabe û Mesîh wê te rʼonayî ke»."
+                },
+                {
+                    "verse": "15",
+                    "text": "Awa binihêrʼin ku hûn nigê xwe fesal bavêjin, nebine mîna bêfeʼma, lê mîna serwaxta."
+                },
+                {
+                    "verse": "16",
+                    "text": "Dest bidine ber wext, çimkî zemanî xirab e."
+                },
+                {
+                    "verse": "17",
+                    "text": "Bona vê yekê bêfeʼm nîbin, lê belê bizanibin çi ye qirara Xudan."
+                },
+                {
+                    "verse": "18",
+                    "text": "Û bi şeravê serxweş nebin, ku eʼmirê mêriv pʼûçʼ dike, lê bi Rʼuhʼê Pîrozva tʼijî bin."
+                },
+                {
+                    "verse": "19",
+                    "text": "Zebûr û dirozga, stiranêd rʼuhʼanî hevdurʼa bêjin, bistirên û dilê xweda Xudanrʼa bilovînin."
+                },
+                {
+                    "verse": "20",
+                    "text": "Her gav bona her tiştî rʼazîbûnê bidine Bav Xwedê, bi navê Xudanê me Îsa Mesîh."
+                },
+                {
+                    "verse": "21",
+                    "text": "Bi xofa Mesîhe nava xweda li ber hevdu xwe bişkênin."
+                },
+                {
+                    "verse": "22",
+                    "text": "Kʼulfetno, usa xwe li ber mêrêd xwe bişkênin, çawa li ber Xudan,"
+                },
+                {
+                    "verse": "23",
+                    "text": "çimkî mêr serê jinê ye, çawa Mesîh jî serê civînê ye û Xwexa Xilazkirê bedena Xwe ye."
+                },
+                {
+                    "verse": "24",
+                    "text": "Û çawa civîn li ber Mesîh xwe dişkêne, bira usa jî jin her tiştîda ber mêrê xwe şkestî be."
+                },
+                {
+                    "verse": "25",
+                    "text": "Mêrno, jinêd xwe hʼiz bikin, çawa ku Mesîh civîn hʼiz kir û jîyîna Xwe ber wêva da,"
+                },
+                {
+                    "verse": "26",
+                    "text": "wekî wê bi xeberê buhurtî-jibare ke, pê avê bişo,"
+                },
+                {
+                    "verse": "27",
+                    "text": "ku civînê li ber Xwe qeşeng bide sekinandinê, ku tʼu lekʼe yan qerçʼimok, yan tiştekî mîna van ser tʼunebe, lê paqij û bêqusûr be."
+                },
+                {
+                    "verse": "28",
+                    "text": "Usa jî gerekê mêr jina xwe hʼiz bike, çawa bedena xwe. Yê ku jina xwe hʼiz dike, ew xwe hʼiz dike."
+                },
+                {
+                    "verse": "29",
+                    "text": "Çimkî bedena tʼu kesî ber çʼeʼvê wî ne rʼeş e, lê wê tʼêr dike û xwey dike, çawa Mesîh jî civînê,"
+                },
+                {
+                    "verse": "30",
+                    "text": "çimkî em endemêd bedena Wî ne."
+                },
+                {
+                    "verse": "31",
+                    "text": "Çawa nivîsar e: «Bona vê yekê mêr wê dê û bavê xwe bihêle, xwe li jinê bigire û her du wê bibine bedenek»."
+                },
+                {
+                    "verse": "32",
+                    "text": "Eva surʼa kʼûr e, lê ez gotina xwe tînime ser Mesîh û civînê."
+                },
+                {
+                    "verse": "33",
+                    "text": "Belê ji we her kes jî bira jina xwe hʼiz bike çawa xwe û jin ji mêrê xwe xof bike."
+                }
+            ]
+        },
+        {
+            "chapter": 6,
+            "verses": [
+                {
+                    "verse": "1",
+                    "text": "Zarʼno, çawa bawermendêd Xudan gurʼa dê û bavê xweda bin, çimkî ev yek rʼast e."
+                },
+                {
+                    "verse": "2",
+                    "text": "«Qedirê dê û bavê xwe bigire» ku ev e tʼemîya pêşin tʼevî sozdayînê,"
+                },
+                {
+                    "verse": "3",
+                    "text": "«wekî çerxa te rʼast be û ser eʼrdê eʼmirê te dirêj be»."
+                },
+                {
+                    "verse": "4",
+                    "text": "Û hûn bavno, zarʼêd xwe hêrs neêxin, lê wan bi şîret û hînkirina Xudan mezin kin."
+                },
+                {
+                    "verse": "5",
+                    "text": "Xulamno, bi xof û tirs, dilê sax gurʼa xweyîyêd xweye vê dinêda bin, çawa gurʼa Mesîhda,"
+                },
+                {
+                    "verse": "6",
+                    "text": "ne ku bi xulamtîya li ber çʼeʼva, ku li meriva xweş bên, lê çawa xulamêd Mesîh bi dil qirara Xwedê biqedînin."
+                },
+                {
+                    "verse": "7",
+                    "text": "Bi rʼezedilî xulamtîyê bikin, çawa Xudanrʼa, ne ku merivarʼa."
+                },
+                {
+                    "verse": "8",
+                    "text": "Hûn zanin ku her kes, heger xulam be, heger aza, çi qencîyê ku bike, weke wê jî wê ji Xudan bistîne."
+                },
+                {
+                    "verse": "9",
+                    "text": "Hûn jî xweyîno, hindava wanda usa bin. Dest ji gef-gurʼîyê bikin. Hûn zanin ku Xweyê wan jî, Yê we jî li eʼzmana ye û cem Wî tʼu firqî tʼune."
+                },
+                {
+                    "verse": "10",
+                    "text": "Heyneser, yektîya Xudanda qewat bin, bi zorayîya qewata Wî."
+                },
+                {
+                    "verse": "11",
+                    "text": "Her çʼekê Xwedê li xwe kin, ku hûn bikaribin miqabilî hʼunurêd mîrêcin bisekinin."
+                },
+                {
+                    "verse": "12",
+                    "text": "Çimkî şerʼê me ne miqabilî xûn û goşt e, lê miqabilî serwêrtî û hʼukumetîya ye, miqabilî mîrêd vê dinya teʼrî ye û miqabilî ordîyêd rʼuhʼanîye xirabe li dîyarê eʼzmana ne."
+                },
+                {
+                    "verse": "13",
+                    "text": "Bona vê yekê çʼekêd Xwedê hildin, ku hûn bikaribin li ber rʼoja oxirmê giran bisekinin û piştî kirina her tiştîrʼa, cîyê xweda qewîn bisekinin."
+                },
+                {
+                    "verse": "14",
+                    "text": "Awa cîyê xweda bisekinin, rʼastîyê mîna kʼemberê li pişta xwe bişidînin, heqîyê mîna zirihʼê li sîngê xwe wergirin"
+                },
+                {
+                    "verse": "15",
+                    "text": "û sol nigêd weda, bona Mizgînîya eʼdilayîyê hazir sekinî bin."
+                },
+                {
+                    "verse": "16",
+                    "text": "Li ser her tiştîrʼa jî bawerîyê mîna mertʼalê bigirine xwe, bi kʼîjanê hûnê bikaribin hʼemû tîrêd agirîye ku yê Xirab davêje, bitemirînin."
+                },
+                {
+                    "verse": "17",
+                    "text": "Û xilazbûnê mîna kʼumzirihʼê hildin, mîna şûr jî xebera Xwedê, ku ji Rʼuhʼê Pîroz e."
+                },
+                {
+                    "verse": "18",
+                    "text": "Bi hʼemû dua û rʼeca her gav dua bikin pê Rʼuhʼê Pîroz. Ser vê yekê hʼişyar bimînin û bona tʼemamîya cimeʼta Xwedê tʼimê dua bikin."
+                },
+                {
+                    "verse": "19",
+                    "text": "Û bona min jî dua bikin, ku gava ez xeber dim, gotinek minrʼa bê dayînê, wekî mêrkʼîmî surʼa Mizgînîyê eʼyan kim,"
+                },
+                {
+                    "verse": "20",
+                    "text": "bona Kʼîjanê ez bi van qeydê xwe qasidîyê dikim. Dua bikin, wekî ez bona Wê turuş kim xeber dim, çawa lazim e."
+                },
+                {
+                    "verse": "21",
+                    "text": "Wekî hûn jî bona min bizanibin, haş ji hʼal-hʼewalê min hebin, Tixîkoyê birayê delal û qulixkʼarê amin yektîya Xudanda wê her tiştî werʼa bêje."
+                },
+                {
+                    "verse": "22",
+                    "text": "Ez bona wê yekê wî ser weda dişînim, wekî hûn haş ji me hebin û ew bi vê yekê dil bide we."
+                },
+                {
+                    "verse": "23",
+                    "text": "De bira eʼdilayî û hʼizkirin bawerîyêva tʼevayî ji Bav Xwedê û Xudan Îsa Mesîh li xûşk-bira be."
+                },
+                {
+                    "verse": "24",
+                    "text": "Bira kʼerem tʼevî wan hʼemûya be, yêd ku bi hʼizkirina bê xilazî Xudanê me Îsa Mesîh hʼiz dikin."
+                }
+            ]
+        }
+    ]
+}

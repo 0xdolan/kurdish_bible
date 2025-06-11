@@ -10,7 +10,17 @@ This repository includes multiple dialects of the Kurdish Bible:
 - **Kurmancî / Kurmanji / Kirmancî / Kirmanci**
 - **Badînî / Badini / Behdini**
 
-Each version has been parsed (originally from [kitebipiroz.com](https://kitebipiroz.com)) and made available for easy access in standard formats.
+## 📚 Sources
+
+The Bible texts in this repository are based on publicly available versions from the following sources:
+
+- [YouVersion](https://www.youversion.com/)
+- [beblia.com](https://www.beblia.com/)
+- [ebible.org](https://ebible.org/)
+- [horami.org](https://horami.org/)
+- [kitebipiroz.com](https://kitebipiroz.com/)
+
+These texts have been parsed and cleaned for easier integration, and are organized by dialect in this repository.
 
 ## 📁 Repository Structure
 
